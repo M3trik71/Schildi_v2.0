@@ -56,10 +56,18 @@ Ports:
 - 1x Power Port
 - 1x DC Charging Port
 
+----------------------------------------------------------
+12x LX-224HV-Servos, High Power
+
+![Projektübersicht](LX-224HV-Servos.png)
+
 
 ----------------------------------------------------------
 
 HD Wide Angle Camera HBVCAM-V2101 V11
+
+![Projektübersicht](HBVCAM-V2101-Camera.png)
+
 - 640x480 Resulution
 - 400mW 5V
 - USB 2.0
@@ -100,7 +108,7 @@ youyeetoo LD19 LiDAR Kit - 12 Meter - 360 Grad - 30K Lux
 What capabilities should the robot have?
 
 It should be able to walk.
-- 6-port bus servo controller
+- 6-port bus servo LX-224HV-Servos 
 
 It should be able to monitor its own battery.
 - INA226 voltage/current module (I2C power monitoring)
