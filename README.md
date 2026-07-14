@@ -27,6 +27,7 @@ Ports:
 
 ----------------------------------------------------------
 
+![Projektübersicht](Teaser1.jpg)
 
 Raspberry Pi 5 Expansion Board Model B
 
