@@ -3,8 +3,9 @@
 This Python project is a newer robotic pet from "Schildi_v1.0". Equipped with clever sensors, it continuously scans its surroundings, processes data in real-time, and reacts completely autonomously with appropriate actions.
 
 ----------------------------------------------------------
-
 Raspberry Pi 5 4GB
+
+![Projektübersicht](Raspberry-Pi-5-Specification.jpg)
 
 Ports:
 - 1x 40-Pin GPIO-Leiste
@@ -27,9 +28,9 @@ Ports:
 
 ----------------------------------------------------------
 
-![Projektübersicht](Expansion_Board_Model_B.png)
-
 Raspberry Pi 5 Expansion Board Model B
+
+![Projektübersicht](Expansion_Board_Model_B.png)
 
 Internal:
 - Cortex-M3 32-bit high-performance Arm chip
