@@ -2,6 +2,8 @@
 
 This Python project is a newer robotic pet from Project called "Schildi_v1.0". The Base is a "Hiwonder SpiderPi Standard", equipped with clever sensors, it continuously scans its surroundings, processes data in real-time, and reacts completely autonomously with appropriate actions.
 
+Here are the following Components:
+
 ----------------------------------------------------------
 Raspberry Pi 5 4GB
 
