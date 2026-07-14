@@ -57,14 +57,14 @@ Ports:
 - 1x DC Charging Port
 
 ----------------------------------------------------------
-12x LX-224HV-Servos, High Power
+12x LX-224HV High Power Servos
 
 ![Projektübersicht](LX-224HV-Servos.png)
 
 
 ----------------------------------------------------------
 
-HD Wide Angle Camera HBVCAM-V2101 V11
+HBVCAM-V2101 HD Wide Angle Camera 
 
 ![Projektübersicht](HBVCAM-V2101-Camera.png)
 
