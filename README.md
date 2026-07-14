@@ -89,7 +89,7 @@ Hiwonder Voltage Display Module Compatible with Hiwonder Robot
 
 ----------------------------------------------------------
 
-- Yahboom AI Voice Interaction Module
+Yahboom AI Voice Interaction Module
 - I2C communication
 - Serial Port
 - Type C Port
