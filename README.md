@@ -105,18 +105,18 @@ youyeetoo LD19 LiDAR Kit - 12 Meter - 360 Grad - 30K Lux
 
 
 
-What capabilities should the robot have?
+What should the robot can do?
 
 It should be able to walk.
-- 6-port bus servo LX-224HV-Servos 
+- Walks with 6-port bus servo LX-224HV-Servos 
 
 It should be able to monitor its own battery.
-- INA226 voltage/current module (I2C power monitoring)
+- Voltage will monitor with a INA226 voltage/current module (I2C power monitoring)
 
 It should have a camera.
 - HD Wide-Angle Camera (HBVCAM-V2101 V11)
 
-It should be able to converse with me.
+It should be able to converse with People.
 - Yahboom AI Voice Interaction Module
 
 It should be able to perceive its surroundings.
