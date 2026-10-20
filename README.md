@@ -1,8 +1,12 @@
 # Schildi_v2.0
 
+![Projektübersicht](Trailer2.jpg)
+
 This Python project is a newer robotic pet from Project called "Schildi_v1.0". The Base is a "Hiwonder SpiderPi Standard", equipped with clever sensors, it continuously scans its surroundings, processes data in real-time, and reacts completely autonomously with appropriate actions.
 
 Here are the following Components:
+
+![Projektübersicht](Trailer3.jpg)
 
 ----------------------------------------------------------
 Raspberry Pi 5 4GB
@@ -104,7 +108,7 @@ youyeetoo LD19 LiDAR Kit - 12 Meter - 360 Grad - 30K Lux
 
 ----------------------------------------------------------
 
-
+![Projektübersicht](Trailer4.jpg)
 
 
 What should the robot can do?
