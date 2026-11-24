@@ -30,6 +30,15 @@ Here are the following Components for the Underside:
 - 1x Free Positiv Cable
 - 1x Free Negative Cable
 
+Here are the following Components for the Frontside:
+
+![Projektübersicht](Trailer4.jpg)
+
+- 1x HBVCAM-V2101 HD Wide Angle Camera 
+- 2x AZDelivery 0,96 Zoll OLED Display I2C - SSD1306 Modul
+- 1x OLED Display SH1106 Modul
+- 1x Servo Port
+  
 
 ----------------------------------------------------------
 
@@ -106,13 +115,6 @@ HBVCAM-V2101 HD Wide Angle Camera
 
 ----------------------------------------------------------
 
-Glowing Ultrasonic Sensor HW-SR06 
-- 2mA
-- 2-400cm Detection distance
-- I2C communication
-
-----------------------------------------------------------
-
 Hiwonder Voltage Display Module Compatible with Hiwonder Robot
 - <10mA
 - Measuring range: 3 - 14 V
@@ -126,13 +128,6 @@ Yahboom AI Voice Interaction Module
 - Serial Port
 - Type C Port
 
-----------------------------------------------------------
-
-youyeetoo LD19 LiDAR Kit - 12 Meter - 360 Grad - 30K Lux
-- 900 mW 5v
-- USB 2.0
-
-![Projektübersicht](Trailer4.jpg)
 
 ----------------------------------------------------------
 
