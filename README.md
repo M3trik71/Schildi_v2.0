@@ -27,10 +27,14 @@ Here are the following Components for the Underside:
 - 1x Main Switch
 - 1x F5AL230V Fuse
 - 1x INA226 Spannungs Strom Modul
-
+- 1x Free Positiv Cable
+- 1x Free Negative Cable
 
 
 ----------------------------------------------------------
+
+The following are individual descriptions of the various components::
+
 Raspberry Pi 5 4GB
 
 ![Projektübersicht](Raspberry-Pi-5-Specification.jpg)
@@ -128,10 +132,9 @@ youyeetoo LD19 LiDAR Kit - 12 Meter - 360 Grad - 30K Lux
 - 900 mW 5v
 - USB 2.0
 
-----------------------------------------------------------
-
 ![Projektübersicht](Trailer4.jpg)
 
+----------------------------------------------------------
 
 What should the robot can do?
 
