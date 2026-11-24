@@ -4,15 +4,29 @@
 
 This Python project is a newer robotic pet from Project called "Schildi_v2.0". The Base is a "Hiwonder SpiderPi Standard", equipped with clever sensors, it continuously scans its surroundings, processes data in real-time, and reacts completely autonomously with appropriate actions.
 
-Here are the following Components:
+Here are the following Components for the Upperside:
 
 ![Projektübersicht](Trailer3.jpg)
 
-A look at the Underside:
+- 1x Raspberry Pi 5 4GB
+- 1x Raspberry Pi 5 Expansion Board Model B
+- 1x USB Soundmodul
+- 1x USB HBVCAM-V2101 HD Wide Angle Camera
+- 1x USB Free Cable
+- 1x I2C Gravity HUB v1.0
+- 1x Yahboom AI Voice Interaction Module
+- 1x PCF8591 AD/DA Konverter Modul
+- 1x BME280   Temperatur, Luftdruck, Luftfeuchtigkeit
+- 1x GY-521 3-Achsen Gyroskop Sensor Beschleunigungssensor
+
+Here are the following Components for the Underside:
 
 ![Projektübersicht](Trailer5.jpg)
 
-
+- 1x Red Power 10000mAh 3S1P 11.1V Battery
+- 1x Main Switch
+- 1x F5AL230V Fuse
+- 1x INA226 Spannungs Strom Modul
 
 
 
