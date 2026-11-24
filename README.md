@@ -8,6 +8,14 @@ Here are the following Components:
 
 ![Projektübersicht](Trailer3.jpg)
 
+A look at the Underside:
+
+![Projektübersicht](Trailer5.jpg)
+
+
+
+
+
 ----------------------------------------------------------
 Raspberry Pi 5 4GB
 
