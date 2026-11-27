@@ -30,6 +30,8 @@ Here are the following Components for the Underside:
 - 1x Free Positiv Cable
 - 1x Free Negative Cable
 
+![Projektübersicht](Trailer6.jpg)
+
 Here are the following Components for the Frontside:
 
 ![Projektübersicht](Trailer4.jpg)
