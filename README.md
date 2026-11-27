@@ -106,6 +106,12 @@ Ports:
 
 ![Projektübersicht](LX-224HV-Servos.png)
 
+- 20kg of lift force
+- Serial Bus Servo
+- High Voltage
+- Compleat Metal Gear
+- Aluminim Alloy Shell
+- ID Identification, Bus Communication
 
 ----------------------------------------------------------
 
@@ -119,7 +125,7 @@ HBVCAM-V2101 HD Wide Angle Camera
 
 ----------------------------------------------------------
 
-Hiwonder Voltage Display Module Compatible with Hiwonder Robot
+Hiwonder Voltage Display Module
 - <10mA
 - Measuring range: 3 - 14 V
 - Maximum input: 14V
@@ -142,27 +148,19 @@ It should be able to walk.
 
 It should be able to monitor its own battery.
 - Voltage will monitor with a INA226 voltage/current module (I2C power monitoring)
-
-It should have a camera.
-- HD Wide-Angle Camera (HBVCAM-V2101 V11)
+  
+It should be able to monitor its own Position in Room with x, y, z.
+- Position will monitor with a GY-521 3-Achsen Gyroskop Sensor Beschleunigungssensor
 
 It should be able to converse with People.
-- Yahboom AI Voice Interaction Module
+- Converse with People with the Yahboom AI Voice Interaction Module
 
 It should be able to perceive its surroundings.
-- Glowing Ultrasonic Sensor (HW-SR06)
-	or
-- youyeetoo LD19 LiDAR Kit (12-meter range, 360-degree view, 30k lux)
+- HD Wide-Angle Camera (HBVCAM-V2101 V11)
 
-
+It should be able to make Sounds or play Tones.
+- It uses the USB Soundmodul for that
 
 
 ----------------------------------------------------------
-
-
-Other exciting modules?
-
-- Google Coral USB Accelerator or Intel Neural Compute Stick 2
-- USB 3.0 SSD
-- BME280 (temperature, air pressure, humidity)
 
