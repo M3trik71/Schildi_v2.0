@@ -164,3 +164,11 @@ It should be able to make Sounds or play Tones.
 
 ----------------------------------------------------------
 
+Possible new Modules?
+
+For wireless charging:
+- 5V 2A Kabelloses Ladegerät PCBA Leiterplatten Empfängermodul für Handy Schnellladung mit kabellosem Ladegerät PCBA Spulen Sendermodul
+
+
+----------------------------------------------------------
+
